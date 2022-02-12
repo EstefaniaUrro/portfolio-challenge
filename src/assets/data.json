@@ -1,0 +1,49 @@
+{
+    "cards": [
+      {
+        "title": "Porfolio Challenge",
+        "code": "Vue",        
+        "tags": "#Vue #Vuetify",
+        "src": "https://res.cloudinary.com/dae4jju6c/image/upload/v1644415389/portafolio/portafolio_bu5wop.png",
+        "description":"Descripcion del proyecto realizado con Vue y Vuetify",
+        "demo":"https://estefaniaurro-portfolio.netlify.app/",
+        "git":"https://github.com/EstefaniaUrro/portfolio-challenge"
+      },
+      {
+        "title": "GIF app",
+        "code": "React",
+        "tags": "#React #CSS",
+        "src": "https://res.cloudinary.com/dae4jju6c/image/upload/v1644515811/portafolio/gif_z0ojno.png",
+        "description":"Descripcion del proyecto realizado con React y Material",
+        "demo":"https://estefaniaurro.github.io/gifapp/",
+        "git":"https://github.com/EstefaniaUrro/gifapp"
+      },
+      {
+        "title": "Heroes App",
+        "code": "React",
+        "tags": "#React #Material UI",
+        "src": "https://res.cloudinary.com/dae4jju6c/image/upload/v1644515811/portafolio/heroe_bizcrv.png",
+        "description":"Descripcion del proyecto realizado con React y Material",
+        "demo":"https://hero-dc-marvel.herokuapp.com/",
+        "git":"https://github.com/EstefaniaUrro/hero-dc-marvel"
+      },
+      {
+        "title": "Tareas App",
+        "code": "Vue",
+        "tags": "#Vue #Vuetify",
+        "src": "https://res.cloudinary.com/dae4jju6c/image/upload/v1644515811/portafolio/Tareas_na9brc.png",
+        "description":"Descripcion del proyecto realizado con Vue y Vuetify",
+        "demo":"https://tareas-con-vue.netlify.app/",
+        "git":"https://github.com/EstefaniaUrro/tareas_vue"
+      },
+      {
+        "title": "Animales App",
+        "code": "HTML",
+        "tags": "#Vue #Vuetify",
+        "src": "https://cdn.vuetifyjs.com/images/cards/plane.jpg",
+        "description":"Descripcion del proyecto realizado con Vue y Vuetify",
+        "demo":"https://tareas-con-vue.netlify.app",
+        "git":"https://github.com/EstefaniaUrro/tareas_vue"
+      }
+    ]
+  }

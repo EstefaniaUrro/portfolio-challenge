@@ -1,12 +1,12 @@
 <template>
   <v-container>
     <v-card class="pa-4 rounded-lg d-flex flex-wrap" elevation="7" outlined>
-      <v-card-title class="text-h5">Hobbies</v-card-title>
+      <v-card-text class="text-sm-h5"> Hobbies</v-card-text>
 
-      <v-card class="mx-5 my-1" max-width="90%" elevation="0">
+      <v-card class="mx-5 my-3" max-width="90%" elevation="0">
         <v-img
           class="rounded-lg"
-          height="180"
+          height="200"
           src="https://res.cloudinary.com/dae4jju6c/image/upload/v1644415389/portafolio/coding_jfzo1a.jpg"
         ></v-img>
 
@@ -20,10 +20,10 @@
         </v-card-text>
       </v-card>
 
-      <v-card class="mx-5 my-1" max-width="90%" elevation="0">
+      <v-card class="mx-5 my-3" max-width="90%" elevation="0">
         <v-img
           class="rounded-lg"
-          height="180"
+          height="200"
           vw
           src="https://res.cloudinary.com/dae4jju6c/image/upload/v1644415389/portafolio/walking_cmitqk.jpg"
         ></v-img>
@@ -36,10 +36,10 @@
         </v-card-text>
       </v-card>
 
-      <v-card class="mx-5 my-1" max-width="90%" elevation="0">
+      <v-card class="mx-5 my-3" max-width="90%" elevation="0">
         <v-img
           class="rounded-lg"
-          height="180"
+          height="200"
           src="https://res.cloudinary.com/dae4jju6c/image/upload/v1644415389/portafolio/dancing_h2ddyo.jpg"
         ></v-img>
 

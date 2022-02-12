@@ -1,14 +1,60 @@
-.app{
-    background-color: #f2f2f2;
-}.bar{
-    width: 80%;
+.app {
+  background-color: #f2f2f2;
 }
-.block{
-    width: 100px;
+
+.block {
+  width: 100px;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-.card-img{
-    background-size: cover;
+.card-img {
+  background-size: cover;
+}
+.react {
+  background: #61dafb;
+}
+.vue {
+  background: #2fad69;
+}
+.html {
+  background: #e44d26;
+}
+.about-img{
+  width: 100%;
+  height: auto;
+}
+.d-inlineblock{
+  width: 100%;
+}
+.d-inlineblock span{
+  width: 7rem;
+  /* text-align: center; */
+  margin: 0 0.5rem;
+}
+.d-inlineblock .skill-bar {
+  width: 70%;
+}
+@media (max-width: 650px) {
+  .about-img{
+    width: 60%;
+    height: 75%;
+  }
+  .about-img-img{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+  }
+}
+@media (min-width: 651px) and (max-width: 950px) {
+  .about-img{
+    width: 60%;
+    height: 60%;
+    
+  }
+  .about-img-img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+  }
 }
