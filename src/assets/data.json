@@ -35,15 +35,6 @@
         "description":"Descripcion del proyecto realizado con Vue y Vuetify",
         "demo":"https://tareas-con-vue.netlify.app/",
         "git":"https://github.com/EstefaniaUrro/tareas_vue"
-      },
-      {
-        "title": "Animales App",
-        "code": "HTML",
-        "tags": "#Vue #Vuetify",
-        "src": "https://cdn.vuetifyjs.com/images/cards/plane.jpg",
-        "description":"Descripcion del proyecto realizado con Vue y Vuetify",
-        "demo":"https://tareas-con-vue.netlify.app",
-        "git":"https://github.com/EstefaniaUrro/tareas_vue"
       }
     ]
   }
